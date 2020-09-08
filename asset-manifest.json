@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/firstapp/static/css/main.ff2843a1.chunk.css",
-    "main.js": "/firstapp/static/js/main.59e03266.chunk.js",
-    "main.js.map": "/firstapp/static/js/main.59e03266.chunk.js.map",
+    "main.css": "/firstapp/static/css/main.4fe6b0a2.chunk.css",
+    "main.js": "/firstapp/static/js/main.0df3ba89.chunk.js",
+    "main.js.map": "/firstapp/static/js/main.0df3ba89.chunk.js.map",
     "runtime-main.js": "/firstapp/static/js/runtime-main.cb7cf24a.js",
     "runtime-main.js.map": "/firstapp/static/js/runtime-main.cb7cf24a.js.map",
-    "static/js/2.c10abbee.chunk.js": "/firstapp/static/js/2.c10abbee.chunk.js",
-    "static/js/2.c10abbee.chunk.js.map": "/firstapp/static/js/2.c10abbee.chunk.js.map",
+    "static/js/2.847dd0d0.chunk.js": "/firstapp/static/js/2.847dd0d0.chunk.js",
+    "static/js/2.847dd0d0.chunk.js.map": "/firstapp/static/js/2.847dd0d0.chunk.js.map",
     "index.html": "/firstapp/index.html",
-    "precache-manifest.c1964033733c1f29dc14c93826e7d22a.js": "/firstapp/precache-manifest.c1964033733c1f29dc14c93826e7d22a.js",
+    "precache-manifest.0952fb96e8cb75f1853463f6e1a50518.js": "/firstapp/precache-manifest.0952fb96e8cb75f1853463f6e1a50518.js",
     "service-worker.js": "/firstapp/service-worker.js",
-    "static/css/main.ff2843a1.chunk.css.map": "/firstapp/static/css/main.ff2843a1.chunk.css.map",
-    "static/js/2.c10abbee.chunk.js.LICENSE.txt": "/firstapp/static/js/2.c10abbee.chunk.js.LICENSE.txt"
+    "static/css/main.4fe6b0a2.chunk.css.map": "/firstapp/static/css/main.4fe6b0a2.chunk.css.map",
+    "static/js/2.847dd0d0.chunk.js.LICENSE.txt": "/firstapp/static/js/2.847dd0d0.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/firstapp/static/media/arrow.dd81ae47.svg",
+    "static/media/comments.svg": "/firstapp/static/media/comments.dcae7504.svg",
+    "static/media/like.svg": "/firstapp/static/media/like.718f8edc.svg",
+    "static/media/repost.svg": "/firstapp/static/media/repost.c4273504.svg",
+    "static/media/share.svg": "/firstapp/static/media/share.abbc6f5a.svg",
+    "static/media/valid.svg": "/firstapp/static/media/valid.2019cadf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb7cf24a.js",
-    "static/js/2.c10abbee.chunk.js",
-    "static/css/main.ff2843a1.chunk.css",
-    "static/js/main.59e03266.chunk.js"
+    "static/js/2.847dd0d0.chunk.js",
+    "static/css/main.4fe6b0a2.chunk.css",
+    "static/js/main.0df3ba89.chunk.js"
   ]
 }
